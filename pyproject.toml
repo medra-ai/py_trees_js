@@ -36,8 +36,8 @@ keywords=["py_trees", "py-trees", "behaviour-trees"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pyqt5 = "~5.14"
-pyqtwebengine = "~5.14"
+pyqt5 = "~5.15"
+pyqtwebengine = "~5.15"
 
 [tool.poetry.group.dev.dependencies]
 tox = ">=3.26"
